@@ -1,4 +1,7 @@
 # Angular-One
-Sample project using Angular 1 for teaching purpose.
+Sample project menggunakan Angular 1 dan Bootstrap untuk keperluan mengajar.
 
-Agar bisa menjalankan project ini, anda perlu menginstall [NodeJS](https://nodejs.org/en/)
+Agar bisa menjalankan project ini, langkah pertama adalah anda perlu menginstall [NodeJS](https://nodejs.org/en/).
+
+*TODO*
+Update laaah ke latest Angular version jooow..
