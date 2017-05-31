@@ -1,3 +1,6 @@
+# OS specific unused file
+.DS_Store
+
 vendor/
 node_modules/
 npm-debug.log
