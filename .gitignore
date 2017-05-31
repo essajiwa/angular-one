@@ -1,9 +1,11 @@
 # OS specific unused file
 .DS_Store
 
+bower_components
 vendor/
 node_modules/
 npm-debug.log
+package-lock.json
 
 # Laravel 4 specific
 bootstrap/compiled.php
